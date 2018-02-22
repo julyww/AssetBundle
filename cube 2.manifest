@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1868688539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4b30eae5ce59966343c14d01b7d8058
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 92cee873137980c3d5ff7e1411ec2c9c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Cube 2.prefab
+Dependencies: []
